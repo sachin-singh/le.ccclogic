@@ -407,3 +407,58 @@ Login Successful @ 2012/07/19 17:14:43
 LogIn test is completed @ 2012/07/19 17:14:43
 Wrong old password. Please use correct password.
 Error: Profile can not be updated @ 2012/07/19 17:15:05
+============================
+Test Started @ 2012/07/19 17:31:31
+Error during Login @ 2012/07/19 17:32:07
+LogIn test is completed @ 2012/07/19 17:32:07
+@2012/07/19 17:32:12
+============================
+Test Started @ 2012/07/19 17:35:35
+============================
+Test Started @ 2012/07/19 17:36:26
+============================
+Test Started @ 2012/07/19 17:38:03
+Error during Login @ 2012/07/19 17:38:38
+LogIn test is completed @ 2012/07/19 17:38:38
+============================
+Test Started @ 2012/07/19 17:39:33
+Error: Login Page didnot load @ 2012/07/19 17:39:48
+LogIn test is completed @ 2012/07/19 17:39:48
+============================
+Test Started @ 2012/07/19 17:56:06
+Login Successful @ 2012/07/19 17:56:12
+LogIn test is completed @ 2012/07/19 17:56:12
+============================
+Test Started @ 2012/07/19 17:57:00
+Login Successful @ 2012/07/19 17:57:06
+LogIn test is completed @ 2012/07/19 17:57:06
+============================
+Test Started @ 2012/07/19 17:59:11
+Login Successful @ 2012/07/19 17:59:17
+LogIn test is completed @ 2012/07/19 17:59:17
+============================
+Test Started @ 2012/07/19 18:00:07
+Login Successful @ 2012/07/19 18:00:13
+LogIn test is completed @ 2012/07/19 18:00:13
+Wrong old password. Please use correct password.
+Error: Profile can not be updated @ 2012/07/19 18:00:33
+============================
+Test Started @ 2012/07/19 18:01:18
+Login Successful @ 2012/07/19 18:01:24
+LogIn test is completed @ 2012/07/19 18:01:24
+@2012/07/19 18:01:28
+============================
+Test Started @ 2012/07/19 18:11:54
+Login Successful @ 2012/07/19 18:12:00
+LogIn test is completed @ 2012/07/19 18:12:00
+Your Profile has been successfully updated.@2012/07/19 18:12:05
+============================
+Test Started @ 2012/07/19 18:13:18
+Login Successful @ 2012/07/19 18:13:23
+LogIn test is completed @ 2012/07/19 18:13:23
+@2012/07/19 18:13:27
+============================
+Test Started @ 2012/07/19 18:17:49
+Login Successful @ 2012/07/19 18:17:54
+LogIn test is completed @ 2012/07/19 18:17:54
+@2012/07/19 18:17:59
