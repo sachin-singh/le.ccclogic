@@ -1,0 +1,32 @@
+============================
+Test Started @ 2012/07/20 12:27:22
+============================
+Test Started @ 2012/07/20 12:30:48
+LogIn Successful @ 2012/07/20 12:30:53
+============================
+Test Started @ 2012/07/20 12:32:21
+Error: login not successful @ 2012/07/20 12:32:33
+============================
+Test Started @ 2012/07/20 12:36:06
+LogIn Successful @ 2012/07/20 12:36:12
+============================
+Test Started @ 2012/07/20 12:45:15
+Error: login not successful @ 2012/07/20 12:45:33
+============================
+Test Started @ 2012/07/20 12:47:15
+LogIn Successful @ 2012/07/20 12:47:20
+============================
+Test Started @ 2012/07/20 12:49:29
+LogIn Successful @ 2012/07/20 12:49:34
+============================
+Test Started @ 2012/07/20 12:59:07
+LogIn Successful @ 2012/07/20 12:59:14
+ Error: Agent Page didn't Load @ 2012/07/20 12:59:29
+============================
+Test Started @ 2012/07/20 13:00:21
+LogIn Successful @ 2012/07/20 13:00:27
+Error: Agent Page didn't Load @ 2012/07/20 13:00:46
+============================
+Test Started @ 2012/07/20 13:01:33
+LogIn Successful @ 2012/07/20 13:01:38
+Agent Page Loaded @ 2012/07/20 13:01:41
